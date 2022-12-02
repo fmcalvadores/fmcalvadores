@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fmcalvadores
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Intermediete Android Development
+- 👀 Interests: Software Development (Web and Android), Travelling, Naruto, Geography and, History!
+- 🌱 I’m currently working as Mid-Level Software Engineer
 - 📫 How to reach me: fmcalvadores@gmail.com
 
 <!---
