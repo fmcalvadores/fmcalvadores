@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Francis Calvadores!, I'm from Philippines :philippines: 
 - 👀 Interests: Software Development (Web and Android), Travelling, Naruto, Geography and, History!
-- 🌱 I’m currently working as Mid-Level Software Engineer
+- 🌱 I’m currently working as Mid-Level Backend Software Engineer
 - 📫 How to reach me: fmcalvadores@gmail.com
 
 <!---
